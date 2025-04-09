@@ -1,10 +1,6 @@
 //haidy
 // rehab
-<<<<<<< HEAD
 
-=======
-// R2
->>>>>>> 4b975e1d0660ff2653101773ac1c797cdddf6ce1
 import React, { useState } from 'react'
 import axios from 'axios'
 import {
